@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(to left top, #719dde, #00aad5, #00b0b1, #4eb080, #8fa856);
+}
+
+.row{
+    margin-top: 20px;
+    width: 100%;
+}
+.btn-group{
+    display: flex;
+    margin-left: 30px;
+}
+.button-group{
+    display: flex;
+    margin-left: 450px;
+}
+.btn{
+margin-left: 8px;
+}
